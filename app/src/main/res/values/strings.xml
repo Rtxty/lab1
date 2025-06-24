@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="icon_mail_description">icon mail</string>
+    <string name="icon_share_decription">icon share</string>
+    <string name="icon_phone_description">icon phone</string>
+    <string name="info">Beginner android developer</string>
+    <string name="name">Nikita Bukharin</string>
+</resources>

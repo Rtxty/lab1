@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="icon_mail_description">Иконка почты</string>
+    <string name="icon_share_decription">Иконка отправки</string>
+    <string name="icon_phone_description">Иконка телефона</string>
+    <string name="info">Начинающий андроид разработчик</string>
+    <string name="name">Никита Бухарин</string>
+</resources>
